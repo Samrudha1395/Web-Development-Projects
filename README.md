@@ -1,2 +1,2 @@
 # Web-Development-Projects
-Small web based projects.
+Small web projects.
